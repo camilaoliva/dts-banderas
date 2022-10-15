@@ -1,0 +1,342 @@
+body {background-color: whitesmoke;}
+
+a{color: whitesmoke;}
+a:hover {color: #2E3D50;}
+
+ .header {
+	width: 90%;
+	height: 3%;
+	position: relative;
+	left:10%;
+	bottom: 10%;
+	background-color: lavender;
+	padding-left: 20px;
+	margin-left: -75px;
+}
+
+.header .p1{
+	color: #5C7988;
+	font-family: 'Outfit', sans-serif;
+	font-weight: bolder;
+	font-size: xx-large;
+	padding-top: 0.2%;	
+}
+
+.header .p2{
+	color: white;
+	font-family: 'Outfit', sans-serif;
+	font-size: x-large;
+	font-weight: bold;
+	padding-bottom: 5px;
+} 
+
+.bandera1{
+	background-color: #D8D2CB;
+	position: relative;
+	left: 10%;
+	padding-left: 20px;
+	margin-left: -75px;
+	width: 90%;
+	height: 250px;
+} 
+
+.bandera2{
+	background-color: #DDDADB;
+	position: relative;
+	left: 10%;
+	padding-left: 20px;
+	margin-left: -75px;
+	width: 90%;
+	height: 250px;
+	margin-top: 25px;
+} 
+
+.bandera3{
+	background-color: #EDEDED;
+	position: relative;
+	left: 10%;
+	padding-left: 20px;
+	margin-left: -75px;
+	width: 90%;
+	height: 250px;
+	margin-top: 25px;
+} 
+
+.caja{
+	position: absolute;
+	width: 310px;
+	height: 200px;
+	background-color: beige;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-style: solid;
+	border-width: 7px;
+	border-color: floralwhite;
+} 
+
+ #madagascar{
+ 	background-color: lavender;
+ }
+
+.franjablanca{
+	width: 95px;
+	height: 200px;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.franjaroja{
+	width: 215px;
+	height: 100px;
+	background-color: #FC3D32;
+	position: inherit;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.franjaverde{
+	width: 215px;
+	height: 100px;
+	background-color: #007E3A;
+	position: inherit;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+.pais1{
+	position: relative;
+	font-family: 'Outfit', sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+	color: #5C7988;
+	margin-left: 370px;
+	top: 20px;
+}
+
+.infopais1M{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: large;
+	color: #2E3D50;
+	margin-left: 370px;
+	margin-top: 40px;
+}
+
+.infopais2M{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: large;
+	color: #2E3D50;
+	margin-left: 370px;
+	margin-top: 14px;
+}
+
+.link1{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: medium;
+	margin-left: 370px;
+	margin-top: 14px;
+}
+
+#uruguay{
+ 	background-color: lavender;
+ }
+
+ .cuadradoblanco{
+	width: 106px;
+	height: 116px;
+	background-color: white;
+	position: inherit;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.blanco1{
+	width: 212px;
+	height: 22px;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.azul1{
+	width: 212px;
+	height: 22px;
+	background-color: #0038A8;
+	position: absolute;
+	top: 23px;
+	right: 0px;
+}
+
+.blanco2{
+	width: 212px;
+	height: 22px;
+	background-color: white;
+	position: absolute;
+	top: 46px;
+	right: 0px;
+}
+
+.azul2{
+	width: 212px;
+	height: 22px;
+	background-color: #0038A8;
+	position: absolute;
+	top: 69px;
+	right: 0px;
+}
+
+.blanco3{
+	width: 212px;
+	height: 22px;
+	background-color: white;
+	position: absolute;
+	top: 92px;
+	right: 0px;
+}
+
+.azul3{
+	width: 310px;
+	height: 22px;
+	background-color: #0038A8;
+	position: absolute;
+	top: 115px;
+	right: 0px;
+}
+
+.blanco4{
+	width: 310px;
+	height: 22px;
+	background-color: white;
+	position: absolute;
+	top: 138px;
+	right: 0px;
+}
+
+.azul4{
+	width: 310px;
+	height: 22px;
+	background-color: #0038A8;
+	position: absolute;
+	top: 161px;
+	right: 0px;
+}
+
+.blanco5{
+	width: 310px;
+	height: 22px;
+	background-color: white;
+	position: absolute;
+	top: 180px;
+	right: 0px;
+}
+
+.pais2{
+	position: relative;
+	font-family: 'Outfit', sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+	color: #5C7988;
+	margin-left: 370px;
+	top: 20px;
+}
+
+.infopais1U{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: large;
+	color: #2E3D50;
+	margin-left: 370px;
+	margin-top: 40px;
+}
+
+.infopais2U{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: large;
+	color: #2E3D50;
+	margin-left: 370px;
+	margin-top: 14px;
+}
+
+.link2{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: medium;
+	margin-left: 370px;
+	margin-top: 14px;
+}
+
+
+.simb{
+	height: 83px;
+	width: 83px;
+	position: absolute;
+	margin-left: 7px;
+	margin-top: -5px;
+	}
+
+	#suecia{
+ 	background-color: #005394;
+ }
+
+.franjavertical{
+	width:43px;
+	height: 200px;
+	background-color: #FFCA06;
+	position: absolute;
+	top: 0px;
+	left: 90px;
+}
+
+.franjahorizontal{
+	width:310px;
+	height: 43px;
+	background-color: #FFCA06;
+	position: absolute;
+	top: 85px;
+	left: 0px;
+}
+
+.pais3{
+	position: relative;
+	font-family: 'Outfit', sans-serif;
+	font-weight: bold;
+	font-size: x-large;
+	color: #5C7988;
+	margin-left: 370px;
+	top: 20px;
+}
+
+.infopais1S{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: large;
+	color: #2E3D50;
+	margin-left: 370px;
+	margin-top: 40px;
+}
+
+.infopais2S{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: large;
+	color: #2E3D50;
+	margin-left: 370px;
+	margin-top: 20px;
+}
+
+.link3{
+	font-family: 'Outfit', sans-serif;
+	font-weight: 100;
+	font-size: medium;
+	margin-left: 370px;
+	margin-top: 20px;
+}
